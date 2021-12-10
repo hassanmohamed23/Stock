@@ -1,0 +1,39 @@
+D:\trak asp.net for me\1new\5##linq&&ef\StoreProject\project2\StockProject\loglayer\LogLayer\bin\Debug\LogLayer.dll.config
+D:\trak asp.net for me\1new\5##linq&&ef\StoreProject\project2\StockProject\loglayer\LogLayer\bin\Debug\LogLayer.dll
+D:\trak asp.net for me\1new\5##linq&&ef\StoreProject\project2\StockProject\loglayer\LogLayer\bin\Debug\LogLayer.pdb
+D:\trak asp.net for me\1new\5##linq&&ef\StoreProject\project2\StockProject\loglayer\LogLayer\bin\Debug\EntityFramework.dll
+D:\trak asp.net for me\1new\5##linq&&ef\StoreProject\project2\StockProject\loglayer\LogLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\trak asp.net for me\1new\5##linq&&ef\StoreProject\project2\StockProject\loglayer\LogLayer\bin\Debug\EntityFramework.xml
+D:\trak asp.net for me\1new\5##linq&&ef\StoreProject\project2\StockProject\loglayer\LogLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\trak asp.net for me\1new\5##linq&&ef\StoreProject\project2\StockProject\loglayer\LogLayer\obj\Debug\LogLayer.csprojAssemblyReference.cache
+D:\trak asp.net for me\1new\5##linq&&ef\StoreProject\project2\StockProject\loglayer\LogLayer\obj\Debug\LogLayer.csproj.CoreCompileInputs.cache
+D:\trak asp.net for me\1new\5##linq&&ef\StoreProject\project2\StockProject\loglayer\LogLayer\obj\Debug\LogLayer.csproj.CopyComplete
+D:\trak asp.net for me\1new\5##linq&&ef\StoreProject\project2\StockProject\loglayer\LogLayer\obj\Debug\LogLayer.dll
+D:\trak asp.net for me\1new\5##linq&&ef\StoreProject\project2\StockProject\loglayer\LogLayer\obj\Debug\LogLayer.pdb
+C:\Users\hsnzz\Desktop\StockProject\loglayer\LogLayer\bin\Debug\LogLayer.dll.config
+C:\Users\hsnzz\Desktop\StockProject\loglayer\LogLayer\bin\Debug\LogLayer.dll
+C:\Users\hsnzz\Desktop\StockProject\loglayer\LogLayer\bin\Debug\LogLayer.pdb
+C:\Users\hsnzz\Desktop\StockProject\loglayer\LogLayer\bin\Debug\EntityFramework.dll
+C:\Users\hsnzz\Desktop\StockProject\loglayer\LogLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hsnzz\Desktop\StockProject\loglayer\LogLayer\bin\Debug\EntityFramework.xml
+C:\Users\hsnzz\Desktop\StockProject\loglayer\LogLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hsnzz\Desktop\StockProject\loglayer\LogLayer\obj\Debug\LogLayer.csprojResolveAssemblyReference.cache
+C:\Users\hsnzz\Desktop\StockProject\loglayer\LogLayer\obj\Debug\LogLayer.dll
+C:\Users\hsnzz\Desktop\StockProject\loglayer\LogLayer\obj\Debug\LogLayer.pdb
+C:\Users\hsnzz\Desktop\StockProject\loglayer\LogLayer\obj\Debug\LogLayer.Migrations.init.resources
+C:\Users\hsnzz\Desktop\StockProject\loglayer\LogLayer\obj\Debug\LogLayer.csproj.GenerateResource.Cache
+C:\Users\hsnzz\Desktop\StockProject\loglayer\LogLayer\obj\Debug\LogLayer.Migrations.i.resources
+E:\FCI\ITI\Projects\StockProject\loglayer\LogLayer\bin\Debug\LogLayer.dll.config
+E:\FCI\ITI\Projects\StockProject\loglayer\LogLayer\bin\Debug\LogLayer.dll
+E:\FCI\ITI\Projects\StockProject\loglayer\LogLayer\bin\Debug\LogLayer.pdb
+E:\FCI\ITI\Projects\StockProject\loglayer\LogLayer\bin\Debug\EntityFramework.dll
+E:\FCI\ITI\Projects\StockProject\loglayer\LogLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\FCI\ITI\Projects\StockProject\loglayer\LogLayer\bin\Debug\EntityFramework.xml
+E:\FCI\ITI\Projects\StockProject\loglayer\LogLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\FCI\ITI\Projects\StockProject\loglayer\LogLayer\obj\Debug\LogLayer.csproj.AssemblyReference.cache
+E:\FCI\ITI\Projects\StockProject\loglayer\LogLayer\obj\Debug\LogLayer.Migrations.init.resources
+E:\FCI\ITI\Projects\StockProject\loglayer\LogLayer\obj\Debug\LogLayer.Migrations.i.resources
+E:\FCI\ITI\Projects\StockProject\loglayer\LogLayer\obj\Debug\LogLayer.csproj.GenerateResource.cache
+E:\FCI\ITI\Projects\StockProject\loglayer\LogLayer\obj\Debug\LogLayer.csproj.CoreCompileInputs.cache
+E:\FCI\ITI\Projects\StockProject\loglayer\LogLayer\obj\Debug\LogLayer.dll
+E:\FCI\ITI\Projects\StockProject\loglayer\LogLayer\obj\Debug\LogLayer.pdb

@@ -1,0 +1,69 @@
+D:\trak asp.net for me\1new\5##linq&&ef\StoreProject\project2\StockProject\bin\Debug\StockProject.exe
+D:\trak asp.net for me\1new\5##linq&&ef\StoreProject\project2\StockProject\bin\Debug\StockProject.pdb
+D:\trak asp.net for me\1new\5##linq&&ef\StoreProject\project2\StockProject\bin\Debug\EntityFramework.dll
+D:\trak asp.net for me\1new\5##linq&&ef\StoreProject\project2\StockProject\bin\Debug\EntityFramework.xml
+D:\trak asp.net for me\1new\5##linq&&ef\StoreProject\project2\StockProject\obj\Debug\StockProject.csprojAssemblyReference.cache
+D:\trak asp.net for me\1new\5##linq&&ef\StoreProject\project2\StockProject\obj\Debug\StockProject.CatgFrm.resources
+D:\trak asp.net for me\1new\5##linq&&ef\StoreProject\project2\StockProject\obj\Debug\StockProject.EmportFrm.resources
+D:\trak asp.net for me\1new\5##linq&&ef\StoreProject\project2\StockProject\obj\Debug\StockProject.ExportFrm.resources
+D:\trak asp.net for me\1new\5##linq&&ef\StoreProject\project2\StockProject\obj\Debug\StockProject.Home.resources
+D:\trak asp.net for me\1new\5##linq&&ef\StoreProject\project2\StockProject\obj\Debug\StockProject.ItemFrm.resources
+D:\trak asp.net for me\1new\5##linq&&ef\StoreProject\project2\StockProject\obj\Debug\StockProject.Properties.Resources.resources
+D:\trak asp.net for me\1new\5##linq&&ef\StoreProject\project2\StockProject\obj\Debug\StockProject.ReportFrm.resources
+D:\trak asp.net for me\1new\5##linq&&ef\StoreProject\project2\StockProject\obj\Debug\StockProject.StockFrm.resources
+D:\trak asp.net for me\1new\5##linq&&ef\StoreProject\project2\StockProject\obj\Debug\StockProject.csproj.GenerateResource.cache
+D:\trak asp.net for me\1new\5##linq&&ef\StoreProject\project2\StockProject\obj\Debug\StockProject.csproj.CoreCompileInputs.cache
+D:\trak asp.net for me\1new\5##linq&&ef\StoreProject\project2\StockProject\obj\Debug\StockProject.csproj.CopyComplete
+D:\trak asp.net for me\1new\5##linq&&ef\StoreProject\project2\StockProject\obj\Debug\StockProject.exe
+D:\trak asp.net for me\1new\5##linq&&ef\StoreProject\project2\StockProject\obj\Debug\StockProject.pdb
+D:\trak asp.net for me\1new\5##linq&&ef\StoreProject\project2\StockProject\bin\Debug\LogLayer.dll
+D:\trak asp.net for me\1new\5##linq&&ef\StoreProject\project2\StockProject\bin\Debug\LogLayer.pdb
+D:\trak asp.net for me\1new\5##linq&&ef\StoreProject\project2\StockProject\bin\Debug\LogLayer.dll.config
+D:\trak asp.net for me\1new\5##linq&&ef\StoreProject\project2\StockProject\bin\Debug\StockProject.exe.config
+D:\trak asp.net for me\1new\5##linq&&ef\StoreProject\project2\StockProject\bin\Debug\EntityFramework.SqlServer.dll
+D:\trak asp.net for me\1new\5##linq&&ef\StoreProject\project2\StockProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hsnzz\Desktop\StockProject\bin\Debug\StockProject.exe.config
+C:\Users\hsnzz\Desktop\StockProject\obj\Debug\StockProject.exe
+C:\Users\hsnzz\Desktop\StockProject\obj\Debug\StockProject.pdb
+C:\Users\hsnzz\Desktop\StockProject\bin\Debug\StockProject.exe
+C:\Users\hsnzz\Desktop\StockProject\bin\Debug\StockProject.pdb
+C:\Users\hsnzz\Desktop\StockProject\bin\Debug\EntityFramework.dll
+C:\Users\hsnzz\Desktop\StockProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hsnzz\Desktop\StockProject\bin\Debug\LogLayer.dll
+C:\Users\hsnzz\Desktop\StockProject\bin\Debug\LogLayer.pdb
+C:\Users\hsnzz\Desktop\StockProject\bin\Debug\EntityFramework.xml
+C:\Users\hsnzz\Desktop\StockProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hsnzz\Desktop\StockProject\obj\Debug\StockProject.csprojResolveAssemblyReference.cache
+C:\Users\hsnzz\Desktop\StockProject\obj\Debug\StockProject.CatgFrm.resources
+C:\Users\hsnzz\Desktop\StockProject\obj\Debug\StockProject.EmportFrm.resources
+C:\Users\hsnzz\Desktop\StockProject\obj\Debug\StockProject.ExportFrm.resources
+C:\Users\hsnzz\Desktop\StockProject\obj\Debug\StockProject.Home.resources
+C:\Users\hsnzz\Desktop\StockProject\obj\Debug\StockProject.ItemFrm.resources
+C:\Users\hsnzz\Desktop\StockProject\obj\Debug\StockProject.Properties.Resources.resources
+C:\Users\hsnzz\Desktop\StockProject\obj\Debug\StockProject.ReportFrm.resources
+C:\Users\hsnzz\Desktop\StockProject\obj\Debug\StockProject.StockFrm.resources
+C:\Users\hsnzz\Desktop\StockProject\obj\Debug\StockProject.csproj.GenerateResource.Cache
+E:\FCI\ITI\Projects\StockProject\bin\Debug\StockProject.exe.config
+E:\FCI\ITI\Projects\StockProject\bin\Debug\StockProject.exe
+E:\FCI\ITI\Projects\StockProject\bin\Debug\StockProject.pdb
+E:\FCI\ITI\Projects\StockProject\bin\Debug\EntityFramework.dll
+E:\FCI\ITI\Projects\StockProject\bin\Debug\EntityFramework.SqlServer.dll
+E:\FCI\ITI\Projects\StockProject\bin\Debug\LogLayer.dll
+E:\FCI\ITI\Projects\StockProject\bin\Debug\LogLayer.pdb
+E:\FCI\ITI\Projects\StockProject\bin\Debug\LogLayer.dll.config
+E:\FCI\ITI\Projects\StockProject\bin\Debug\EntityFramework.xml
+E:\FCI\ITI\Projects\StockProject\bin\Debug\EntityFramework.SqlServer.xml
+E:\FCI\ITI\Projects\StockProject\obj\Debug\StockProject.csproj.AssemblyReference.cache
+E:\FCI\ITI\Projects\StockProject\obj\Debug\StockProject.CatgFrm.resources
+E:\FCI\ITI\Projects\StockProject\obj\Debug\StockProject.EmportFrm.resources
+E:\FCI\ITI\Projects\StockProject\obj\Debug\StockProject.ExportFrm.resources
+E:\FCI\ITI\Projects\StockProject\obj\Debug\StockProject.Home.resources
+E:\FCI\ITI\Projects\StockProject\obj\Debug\StockProject.ItemFrm.resources
+E:\FCI\ITI\Projects\StockProject\obj\Debug\StockProject.Properties.Resources.resources
+E:\FCI\ITI\Projects\StockProject\obj\Debug\StockProject.ReportFrm.resources
+E:\FCI\ITI\Projects\StockProject\obj\Debug\StockProject.StockFrm.resources
+E:\FCI\ITI\Projects\StockProject\obj\Debug\StockProject.csproj.GenerateResource.cache
+E:\FCI\ITI\Projects\StockProject\obj\Debug\StockProject.csproj.CoreCompileInputs.cache
+E:\FCI\ITI\Projects\StockProject\obj\Debug\StockProject.csproj.CopyComplete
+E:\FCI\ITI\Projects\StockProject\obj\Debug\StockProject.exe
+E:\FCI\ITI\Projects\StockProject\obj\Debug\StockProject.pdb
